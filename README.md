@@ -7,5 +7,3 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 =======
-# my_home_page
->>>>>>> ccb04a818be265b7b95acd47a371eb38a3ed0d2c
